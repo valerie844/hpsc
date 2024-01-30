@@ -1,0 +1,14 @@
+pwd
+ls
+ls -l
+ls -a
+ls -al
+echo
+cat
+touch
+mkdir
+rmdir
+rm 
+rm -r
+rm -i
+
